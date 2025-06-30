@@ -33,8 +33,8 @@
 
 
 ## 📜 Publications & Patents
-- 📝 A Waterborne Fecal Contamination Using Inorganic Surrogates and Machine Learning, MDPI Senbsors, on going, 2025
-- 📝 A Self-Service Sampling Robot and Working Method, 2024
+- 📝 *A Waterborne Fecal Contamination Using Inorganic Surrogates and Machine Learning, MDPI Senbsors*, on going, 2025
+- 📝 Patent：*A Self-Service Sampling Robot and Working Method*, 2024
 
 ---
 
