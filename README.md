@@ -18,7 +18,7 @@
 
 > "Designed a solar-powered buoy network with Flask + MQTT back-end and edge-deployed wavelet + autocorrelation model achieving 87% prediction accuracy." 
 
-**Multi-Agent Robot Navigation**
+**[Multi-Agent Robot Navigation](https://github.com/XXINCH-code/multi-agent-navi)**
 
 > "Developed improved CBS-A* and parallel RRT★ for path planning with D* Lite local replanning and MPC control, validated in PyBullet and deployed on TurtleBot. "
 
