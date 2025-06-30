@@ -1,13 +1,12 @@
 ## 👋 Hi, I'm Chenghao (Tommy) Xin 
 
 
-📫 Contact: xxinch2024@outlook.com | +86 136-9881-0225 :contentReference[oaicite:0]{index=0}  
-🌐 Website: [github.com/XXINCH-code](https://github.com/XXINCH-code) :contentReference[oaicite:1]{index=1}  
-
+📫 Contact: xxinch2024@outlook.com 
+🌐 Website: [github.com/XXINCH-code](https://github.com/XXINCH-code) 
 ## 🎓 Education
 
-- **University College London (UCL)** — M.Sc. in IoT Systems Engineering (Sep 2024 – Dec 2025) :contentReference[oaicite:0]{index=0}  
-- **University of Nottingham Ningbo China (UNNC)** — B.Eng. in Electrical Engineering & Automation (Sep 2020 – Jul 2024) :contentReference[oaicite:1]{index=1}  
+- **University College London (UCL)** — M.Sc. in IoT Systems Engineering (Sep 2024 – Dec 2025) 
+- **University of Nottingham Ningbo China (UNNC)** — B.Eng. in Electrical & Electronic Engineering (Sep 2020 – Jul 2024)
 
 ---
 
