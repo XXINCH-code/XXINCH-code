@@ -20,7 +20,7 @@
 
 **[Multi-Agent Robot Navigation](https://github.com/XXINCH-code/multi-agent-navi)**
 
-> "Developed improved CBS-A* and parallel RRT★ for path planning with D* Lite local replanning and MPC control, validated in PyBullet and deployed on TurtleBot. "
+> "Developed improved CBS-A* and parallel RRT* for path planning with D* Lite local replanning and MPC control, validated in PyBullet and deployed on TurtleBot. "
 
 ---
 
